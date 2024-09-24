@@ -1,6 +1,13 @@
-# Enter Code here
-# Read the README - under files on left
-# Delete these three lines before submitting
+# Programmers: Theresa DeJacimo and Cameron Combariza
+# Course: CS151, Dr. Zelalem Jembre Yalew
+# Due Date: 9/25/2024
+# Lab Assignment: 2
+# Problem Statement: figure out population change, future population, and weather it increased/decreased
+# Data In: seconds per year, birth rate, death rate, immigration rate, number of years in future
+# Data Out: population change, future population, weather it increased or decreased
+# Credits: [in class]
+
+
 
 #enter variables for birth, death and immigration rates
 seconds_per_year = 31536000
